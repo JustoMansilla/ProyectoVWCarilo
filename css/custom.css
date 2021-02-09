@@ -50,9 +50,18 @@ p.bk_pra{
 } */
 
 
-@media only screen and (min-width: 420px) {
+/* @media only screen and (max-width: 400px){
 
-	#fotoTaos{
-		margin-top: 7%;
+	#fotoTaos {
+		margin-top: 10%;
 	}
+
 }
+
+@media only screen and (min-width: 400px){
+
+	#fotoTaos {
+		margin-top: 10%;
+	}
+
+} */

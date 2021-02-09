@@ -1784,7 +1784,7 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 	}
 }
 #Header_wrapper, #Intro {
-	background-color: #b5cfea;
+	background-color: #ffffff;
 }
 #Subheader {
 	background-color: rgba(181, 207, 234, 1);
@@ -1805,10 +1805,10 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 	background-color: #fff;
 }
 body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_list ul li a, .list_item a, .list_item a:hover, .widget_recent_entries ul li a, .flat_box a, .flat_box a:hover, .story_box .desc, .content_slider.carouselul li a .title, .content_slider.flat.description ul li .desc, .content_slider.flat.description ul li a .desc, .post-nav.minimal a i {
-	color: #4d5d71;
+	color: #FFFFFF;
 }
 .post-nav.minimal a svg {
-	fill: #4d5d71;
+	fill: #FFFFFF;
 }
 .themecolor, .opening_hours .opening_hours_wrapper li span, .fancy_heading_icon .icon_top, .fancy_heading_arrows .icon-right-dir, .fancy_heading_arrows .icon-left-dir, .fancy_heading_line .title, .button-love a.mfn-love, .format-link .post-title .icon-link, .pager-single>span, .pager-single a:hover, .widget_meta ul, .widget_pages ul, .widget_rss ul, .widget_mfn_recent_comments ul li:after, .widget_archive ul, .widget_recent_comments ul li:after, .widget_nav_menu ul, .woocommerce ul.products li.product .price, .shop_slider .shop_slider_ul li .item_wrapper .price, .woocommerce-page ul.products li.product .price, .widget_price_filter .price_label .from, .widget_price_filter .price_label .to, .woocommerce ul.product_list_widget li .quantity .amount, .woocommerce .product div.entry-summary .price, .woocommerce .star-rating span, #Error_404 .error_pic i, .style-simple #Filters .filters_wrapper ul li a:hover, .style-simple #Filters .filters_wrapper ul li.current-cat a, .style-simple .quick_fact .title {
 	color: #001e50;
@@ -2067,7 +2067,7 @@ hr.hr_color, .hr_color hr, .hr_dots span {
 	color: #a8a8a8;
 }
 blockquote, blockquote a, blockquote a:hover {
-	color: #444444;
+	color: #001e50;
 }
 .image_frame .image_wrapper .image_links, .portfolio_group.masonry-hover .portfolio-item .masonry-hover-wrapper .hover-desc {
 	background: rgba(78, 233, 254, 0.8);
