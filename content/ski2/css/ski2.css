@@ -537,18 +537,18 @@ h6 {
 	border-radius: 35px;
 }
 .button-custom .button {
-	color: #233245;
+	color: #000000;
 	background-color: #e3e6ee;
 	border-color: transparent;
 }
 .button-custom .button:hover {
-	color: #233245;
+	color: #000000;
 	background-color: #d7dbe7;
 	border-color: transparent;
 }
 .button-custom .button_theme, .button-custom button, .button-custom input[type="button"], .button-custom input[type="reset"], .button-custom input[type="submit"], .button-custom .woocommerce #respond input#submit, .button-custom .woocommerce a.button:not(.default), .button-custom .woocommerce button.button, .button-custom .woocommerce input.button {
 	color: #fff;
-	background-color: #233245;
+	background-color: #000000;
 	border-color: transparent;
 }
 .button-custom .button_theme:hover, .button-custom button:hover, .button-custom input[type="button"]:hover, .button-custom input[type="reset"]:hover, .button-custom input[type="submit"]:hover, .button-custom .woocommerce #respond input#submit:hover, .button-custom .woocommerce a.button:not(.default):hover, .button-custom .woocommerce button.button:hover, .button-custom .woocommerce input.button:hover {
@@ -570,7 +570,7 @@ h6 {
 	line-height: 20px !important;
 	padding: 15px 35px 15px 35px !important;
 	color: #ffffff !important;
-	background-color: #233245 !important;
+	background-color: #000000 !important;
 }
 .button-custom .single_add_to_cart_button:hover, .button-custom .woocommerce .button:disabled:hover, .button-custom .woocommerce .button.alt:hover, .button-custom a.remove:hover {
 	color: #ffffff !important;
@@ -1837,22 +1837,22 @@ a:hover {
 	color: #a8a8a8;
 }
 h1, h1 a, h1 a:hover, .text-logo #logo {
-	color: #233245;
+	color: #000000;
 }
 h2, h2 a, h2 a:hover {
-	color: #233245;
+	color: #000000;
 }
 h3, h3 a, h3 a:hover {
-	color: #233245;
+	color: #000000;
 }
 h4, h4 a, h4 a:hover, .style-simple .sliding_box .desc_wrapper h4 {
-	color: #233245;
+	color: #000000;
 }
 h5, h5 a, h5 a:hover {
-	color: #233245;
+	color: #000000;
 }
 h6, h6 a, h6 a:hover, a.content_link .title {
-	color: #233245;
+	color: #000000;
 }
 .dropcap, .highlight:not(.highlight_image) {
 	background-color: #001e50;
@@ -1922,7 +1922,7 @@ hr.hr_color, .hr_color hr, .hr_dots span {
 	color: #333333;
 }
 #Top_bar .menu>li>a, #Top_bar #menu ul li.submenu .menu-toggle {
-	color: #233245;
+	color: #000000;
 }
 #Top_bar .menu>li.current-menu-item>a, #Top_bar .menu>li.current_page_item>a, #Top_bar .menu>li.current-menu-parent>a, #Top_bar .menu>li.current-page-parent>a, #Top_bar .menu>li.current-menu-ancestor>a, #Top_bar .menu>li.current-page-ancestor>a, #Top_bar .menu>li.current_page_ancestor>a, #Top_bar .menu>li.hover>a {
 	color: #0f1a28;
@@ -1931,7 +1931,7 @@ hr.hr_color, .hr_color hr, .hr_dots span {
 	background: #0f1a28;
 }
 .menuo-arrows #Top_bar .menu>li.submenu>a>span:not(.description)::after {
-	border-top-color: #233245;
+	border-top-color: #000000;
 }
 #Top_bar .menu>li.current-menu-item.submenu>a>span:not(.description)::after, #Top_bar .menu>li.current_page_item.submenu>a>span:not(.description)::after, #Top_bar .menu>li.current-menu-parent.submenu>a>span:not(.description)::after, #Top_bar .menu>li.current-page-parent.submenu>a>span:not(.description)::after, #Top_bar .menu>li.current-menu-ancestor.submenu>a>span:not(.description)::after, #Top_bar .menu>li.current-page-ancestor.submenu>a>span:not(.description)::after, #Top_bar .menu>li.current_page_ancestor.submenu>a>span:not(.description)::after, #Top_bar .menu>li.hover.submenu>a>span:not(.description)::after {
 	border-top-color: #0f1a28;
@@ -1965,7 +1965,7 @@ hr.hr_color, .hr_color hr, .hr_dots span {
 	background: #001e50;
 }
 .overlay-menu-toggle {
-	color: #233245 !important;
+	color: #000000 !important;
 	background: transparent;
 }
 #Overlay {
@@ -1978,7 +1978,7 @@ hr.hr_color, .hr_color hr, .hr_dots span {
 	color: #d1f3f9;
 }
 #Top_bar .responsive-menu-toggle, #Header_creative .creative-menu-toggle, #Header_creative .responsive-menu-toggle {
-	color: #233245;
+	color: #000000;
 	background: transparent;
 }
 #Side_slide {
@@ -2025,7 +2025,7 @@ hr.hr_color, .hr_color hr, .hr_dots span {
 	color: #01c9e4;
 }
 #Footer h1, #Footer h1 a, #Footer h1 a:hover, #Footer h2, #Footer h2 a, #Footer h2 a:hover, #Footer h3, #Footer h3 a, #Footer h3 a:hover, #Footer h4, #Footer h4 a, #Footer h4 a:hover, #Footer h5, #Footer h5 a, #Footer h5 a:hover, #Footer h6, #Footer h6 a, #Footer h6 a:hover {
-	color: #233245;
+	color: #000000;
 }
 #Footer .themecolor, #Footer .widget_meta ul, #Footer .widget_pages ul, #Footer .widget_rss ul, #Footer .widget_mfn_recent_comments ul li:after, #Footer .widget_archive ul, #Footer .widget_recent_comments ul li:after, #Footer .widget_nav_menu ul, #Footer .widget_price_filter .price_label .from, #Footer .widget_price_filter .price_label .to, #Footer .star-rating span {
 	color: #001e50;
@@ -2176,7 +2176,7 @@ body.table-hover:not(.woocommerce-page) table tr:hover td {
 	background: #001e50;
 }
 input[type="date"], input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"], select, textarea, .woocommerce .quantity input.qty, .dark input[type="email"], .dark input[type="password"], .dark input[type="tel"], .dark input[type="text"], .dark select, .dark textarea {
-	color: #233245;
+	color: #000000;
 	background-color: rgba(255, 255, 255, 1);
 	border-color: #EBEBEB;
 }
@@ -2190,7 +2190,7 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 	color: #929292;
 }
 input[type="date"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, select:focus, textarea:focus {
-	color: #233245;
+	color: #000000;
 	background-color: rgba(233, 245, 252, 1) !important;
 	border-color: #d5e5ee;
 }
